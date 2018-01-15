@@ -1,0 +1,244 @@
+{
+  "basics": {
+    "name": "David J. Davis",
+    "label": "Programmer",
+    "picture": "",
+    "email": "dave@ddavisgraphics.com",
+    "phone": "(304) 613-7108",
+    "website": "http://www.ddavisgraphics.com",
+    "summary": "I am a full stack developer that can not only design the application, but also produce highly effective functional applications. Higher education has helped me to hone my graphic design skills, programming skills, and taught me how to be life time learner.  At West Virginia University Libraries, I got the opportunity to take Gallup Strengths Finder Quiz, which allows you to get an un-bias idea of what skills you can bring to the table as a form of self-reflection.  My skills where communication, consistency, learner, achiever, and adaptability.  I believe that each of these skills is extremely useful in development.  Being able to learn and adapt to new technologies is often critical in my day-to-day work.  Communicating effectively with clients allows me to get a better idea of what they are looking for and help them achieve the goals of the application.   Consistency is needed day in and day out to stay on top of bugs, security, and trends in the industry. I am a full stack developer, and I love what I do!",
+    "location": {
+      "city": "Fairmont",
+      "countryCode": "US",
+      "region": "West Virginia / Greater Pittsburgh Area"
+    },
+    "profiles": [{
+      "network": "LinkedIn",
+      "username": "djdavis",
+      "url": "https://www.linkedin.com/in/david-j-davis/"
+    }]
+  },
+  "volunteer": [{
+    "organization": "UPMC Horizon Hospitals",
+    "position": "Volunteer",
+    "website": "",
+    "startDate": "2000-07-01",
+    "endDate": "2005-01-01",
+    "summary": "Helped move patients around to different parts of the hospital as part of a volunteer service with UPMC Horizon Hospitals in Greenville, PA."
+  }],
+  "work": [
+    {
+      "company": "West Virginia University",
+      "position": "Software Engineer (Full Stack)",
+      "website": "http://www.wvu.edu",
+      "startDate": "2016-08-01",
+      "endDate": "present",
+      "summary": "Lead a team of developers in programming specialized applications associated with the Libraries network facilities and web pages. Maintain and upgrade existing applications written in a variety of programming languages and write new software based on design specifications. Working with open and closed source programming systems to create accessible and secure systems.",
+      "highlights": [
+        "Accomplished removing accessibility errors (A, AA, AAA) from WVU Libraries various websites and applications using HTML, JavaScript, PHP, and Ruby.", 
+        "Implemented Docker to upgrade the digital repository software which relies on writing scripts in PHP, Ruby (Hydra), and having an understanding of Blacklight, Solr, and Fedora Commons.", 
+        "Upgrading PHP applications that were written in a proprietary framework to a more public framework such as Laravel, Rails, or other based on needs of the project.  The intent was to gain more traction for our open source applications.", 
+        "Established developer guidelines for use in our applications often adopting main stream styleguides. Wrote documentation, training plans, development processes, and production processes for the small team at the Libraries.  ", 
+        "Integrated Tools for Automated Code Reviews and Quality Assurance.", 
+        "Other common tasks include debugging applications, cleaning and manipulating data through writing command line scripts, and finding ways to automate scripts that have been manually updated via the command line."
+      ]
+    },{
+      "company": "MPL Corporation",
+      "position": "Frontend Developer",
+      "website": "http://www.mpl.com/",
+      "startDate": "2016-05-01",
+      "endDate": "2016-08-01",
+      "summary": "Designing and Developing UX/UI for an application designed to improve workflow for our customer using an agile workflow and completing deliverables in 2 week sprints. Develop front-end interfaces from restful API using Java, Scala, HTML, JSON, JavaScript, SCSS, and modern front-end Tooling systems.Work closely with backend developers and have an understanding of the entire system to integrate and jump in where necessary.",
+      "highlights": [
+        "Helped the University Departments understand, create, and manage goals for their websites for recruitment and information purposes for students, alumni, professors, and other University personnel.",
+        "Designed and Developed websites for the Eberly College of Arts and Sciences.  This included around 12-15 websites for the college and multiple websites for around 30 sub-departments within the college.", 
+        "Used creative skills to present and teach content strategy and technology proficiencies to about 30-40 content managers from each of the colleges departments.",
+        "Supervised and coached a total of 8 interns over the course of 3 years.", 
+        "Used Node and NPM Libraries to for preprocessing JS and SCSS for faster performance.", 
+        "Created Interactive Elements using JavaScript, JQuery, and Angular for various websites."
+      ]
+    },{
+      "company": "West Virginia University",
+      "position": "Junior Software Engineer",
+      "website": "http://www.wvu.edu",
+      "startDate": "2015-03-01",
+      "endDate": "2016-05-01",
+      "summary": "Computer programming associated with the production of specialized applications associated with the Libraries network facilities and web pages. Maintain and upgrade existing applications written in a variety of programming languages and write new software based on design specifications. Working with open and closed source programming systems to create accessible and secure systems.",
+      "highlights": [
+        "Developed and modified public and private facing web applications using PHP, Ruby, JavaScript, MySQL, Bash, CSS, and HTML", 
+        "Programmed and Designed a User Interface for an Open Source Metadata Archival and Preservation Software used by WVU Libraries.", 
+        "Used Node JS to test feasibility of a middleware application for fetching the API’s used by the library to quickly fetch JSON, HTML (Screen Scrape), and XML.",
+        "Automated formatting of data for system revisions used by the library using Ruby.", 
+        "Developed or Modified applications that handle the following tasks each with a restful JSON API.  Archival Systems, Hours of Operations for Multiple Libraries and Departments, Managed Images for Library Homepage, and Directory software."
+      ]
+    },{
+      "company": "West Virginia University",
+      "position": "Graphic Designer / Frontend Developer",
+      "website": "http://www.wvu.edu",
+      "startDate": "2016-10-01",
+      "endDate": "2015-03-01",
+      "summary": "Oversee the development and implementation of the website design and development for the College. Creative designer for web, integrated marketing projects, and print pieces. They will provide daily support to official College websites, assist in developing new applications, and manage and create new databases for web applications.",
+      "highlights": [
+        "Helped the University Departments understand, create, and manage goals for their websites for recruitment and information purposes for students, alumni, professors, and other University personnel.",
+        "Designed and Developed websites for the Eberly College of Arts and Sciences.  This included around 12-15 websites for the college and multiple websites for around 30 sub-departments within the college.",
+        "Used creative skills to present and teach content strategy and technology proficiencies to about 30-40 content managers from each of the colleges departments.",  
+        "Supervised and coached a total of 8 interns over the course of 3 years.",   
+        "Used Node and NPM Libraries to for preprocessing JS and SCSS for faster performance.", 
+        "Created Interactive Elements using JavaScript, JQuery, and Angular for various websites."       
+      ]
+    },{
+      "company": "Fairmont State University",
+      "position": "Adjunct Professor",
+      "website": "http://www.fairmontstate.edu",
+      "startDate": "2010-08-01",
+      "endDate": "2015-12-01",
+      "summary": "Facilitated a dynamic and engaging learning environment for students interested in graphic design.  Provide students with a solid background graphic design theory while providing industry transferable skills. Graphic Communications and Processes, Computer Applications to  Graphics, Introduction to 3D Modeling, Electronic Art, Motion Design (Adobe After Effects), Introduction To Web Application Development (JavaScript).",
+      "highlights": []
+    },{
+      "company": "Lindsey Wilson College",
+      "position": "Adjunct Professor (Online)",
+      "website": "http://www.lindsey.edu/",
+      "startDate": "2016-08-01",
+      "endDate": "2017-1-01",
+      "summary": "Facilitate a dynamic and engaging learning environment for students interested in learning web development and getting a UX / UI certification. Created and developed a course for design students who are interested in learning how to create rich web applications via JavaScript.  Using frameworks and learn by doing methodology students will start head first into creating and using programming skills to create their first web application.  ",
+      "highlights": []
+    }
+],
+  "education": [{
+    "institution": "Pierpont Community and Technical College",
+    "area": "Graphic Design in Technology",
+    "summary": "Graphic design and technologies as they relate to web, digital, and print.",
+    "degree": "Associates of Science",
+    "startDate": "2005",
+    "endDate": "2010",
+    "gpa": "~3.0"
+  },{
+    "institution": "Fairmont State University",
+    "area": "Graphic Design in Technology",
+    "summary": "Graphic design and technologies as they relate to web, digital, and print.",
+    "degree": "Bachelor of Science",
+    "startDate": "2005",
+    "endDate": "2010",
+    "gpa": "~3.0"
+  },{
+    "institution": "Savannah College of Art and Design (SCAD)",
+    "area": "Interactive Design and Game Development",
+    "summary": "Interactive Design and Game Development.Focusing on user interactions, frontend tooling, and web application development.",
+    "degree": "Masters of Fine Arts",
+    "startDate": "2005",
+    "endDate": "2010",
+    "gpa": "~3.0"
+  }],
+  "awards": [],
+  "publications": [{
+    "name": "Programming isn’t easy, coding is.",
+    "publisher": "Hackernoon",
+    "releaseDate": "2017-07-13",
+    "website": "https://hackernoon.com/programming-isnt-easy-coding-is-a1efcf97a264",
+    "summary": "A little self-evaluation in my journey from designer to programmer."
+  },{
+    "name": "Pointless? Programming Problems.",
+    "publisher": "Hackernoon",
+    "releaseDate": "2017-09-20",
+    "website": "https://hackernoon.com/pointless-programming-problems-59427ea6f8b6",
+    "summary": "An article I wrote on programming challenges, which dives down the rabbit hole of research and personal growth by coding these challenges in different ways."
+  },{
+    "name": "Automating Jobs: Rails",
+    "publisher": "Medium",
+    "releaseDate": "2017-12-29",
+    "website": "https://medium.com/@ddavisgraphics/automating-jobs-rails-fa5928e8ca95?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BALbvHCBJQBOwrAyUGTHffQ%3D%3D",
+    "summary": "This article may appeal to developers who work with archivists, librarians, or in a manner of using archival and preservation software. It showcases how I managed automation from the archival system to the public repository using Ruby(Rails)."
+  },{
+    "name": "Full-Stack JavaScript Frameworks: Using Frameworks to Supplement Programming Concepts in Graphic Design Curricula",
+    "publisher": "Savannah, Georgia: Savannah College of Art and Design (eLearning)",
+    "releaseDate": "2016-03-01",
+    "website": "http://ecollections.scad.edu/iii/cpro/DigitalItemViewPage.external?lang=eng&sp=1003242&sp=T&sp=Pall%2CRu1000001%40%2CQjavascript&suite=def&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BALbvHCBJQBOwrAyUGTHffQ%3D%3D",
+    "summary": "This thesis examines the designers’ role in the web industry, focusing on two major parts. The first is to inform and teach designers the value and benefits of programming by means of creating web applications. The second acts as a catalyst to quickly engage the students using frameworks, visual learning, and learn-by-doing methodologies. The goal of the study is to further design curricula by finding a productive way to introduce programming concepts in a way that empowers the student."
+  }],
+  "skills": [
+    {
+      "name": "Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS", 
+        "Javascript", 
+        "PHP", 
+        "Ruby",
+        "MySQL",
+        "Node", 
+        "Git", 
+        "Github", 
+        "Accessibility", 
+        "Pre-processors", 
+        "XML", 
+        "JSON", 
+        "Apache", 
+        "MySQL", 
+        "Solr"
+      ]
+    },{
+      "name": "Graphic Design",
+      "level": "Master",
+      "keywords": [
+        "Photoshop",
+        "Illustrator", 
+        "Adobe Creative Cloud",
+        "UX/UI", 
+        "Branding", 
+        "Print",
+        "Wideformat"
+      ]
+    },{
+      "name": "System Administration",
+      "level": "Proficient",
+      "keywords": [
+        "Linux Servers",
+        "Docker", 
+        "Vagrant",
+        "Dependency Management", 
+        "Ansible"
+      ]
+    },{
+      "name": "Frameworks",
+      "level": "Proficient",
+      "keywords": [
+        "Rails",
+        "Ruby on Rails", 
+        "Play",
+        "Angular", 
+        "JQuery", 
+        "Laravel", 
+        "Express", 
+        "Meteor", 
+      ]
+    }
+  ],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [],
+  "references": [{
+    "name": "Tim Broadwater",
+    "phone": "(304) 669-1532",
+    "reference": "David is a fantastic coworker and vital member of our development team. He always lends a hand with any type of debugging issue, he stays current with industry development languages and standards, and he is professional and courteous in the workplace. Both a creative web application developer and JavaScript wizard, Dave would be a great addition to any software team."
+  },{
+    "name": "David Meyers",
+    "phone": "(270) 577-2715",
+    "reference": "As a full-time professor for the Savannah College of Art and Design, I have had the pleasure of knowing and instructing David Davis for the last three years. I would like to take this opportunity to recommend David as a candidate for employment at your institution I feel confident that he will succeed as an instructor at every level. David has been a dedicated student whose effort and grades have been excellent in the area of Interactive Design and Game Development. He has shown particular strengths in adapting complex programming frameworks at entry-level students. He possesses a gift of making complex items simple - an asset for anyone pursuing a career in education. David has exhibited tremendous technical aptitude, initiative and fortitude in completing his master’s thesis. It is for these reasons that I offer high recommendations for David without reservation. His drive and abilities will truly be an asset to your institution. If you have any questions regarding this recommendation, please do not hesitate to contact me."
+  },{
+    "name": "Vijay Raol",
+    "phone": "(304) 367-4104",
+    "reference": "N/A"
+  },{
+    "name": "David Felton",
+    "phone": "(304) 838-3283",
+    "reference": "N/A"
+  },{
+    "name": "Ajay Kavuri",
+    "phone": "N/A",
+    "reference": "'A great mentor' is the phrase that comes to my mind when I think about Dave. Dave and I have worked together on several projects at WVU Libraries Systems department. He is always willing to brainstorm ideas, share knowledge and provides valuable feedback. He insists on software best practices such as unit testing, code reviews, and documentation. He introduced continuous integration testing that saved both time and effort for developers in our team. All this added with his passion for building user-friendly applications will make him an asset to any team."
+  }]
+} 
