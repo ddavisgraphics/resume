@@ -17,8 +17,20 @@
       "network": "LinkedIn",
       "username": "djdavis",
       "url": "https://www.linkedin.com/in/david-j-davis/"
-    }]
-  },
+    }, {
+      "network": "Behance",
+      "username": "ddavisgraphics",
+      "url": "https://www.behance.net/ddavisgraphics/"
+    }, {
+      "network": "Github",
+      "username": "ddavisgraphics",
+      "url": "https://www.github.com/ddavisgraphics/"
+    }, {
+      "network": "Medium",
+      "username": "ddavisgraphics",
+      "url": "https://medium.com/@ddavisgraphics"
+    } 
+  ]},
   "volunteer": [{
     "organization": "UPMC Horizon Hospitals",
     "position": "Volunteer",
@@ -242,5 +254,9 @@
     "name": "Ajay Kavuri",
     "phone": "N/A",
     "reference": "'A great mentor' is the phrase that comes to my mind when I think about Dave. Dave and I have worked together on several projects at WVU Libraries Systems department. He is always willing to brainstorm ideas, share knowledge and provides valuable feedback. He insists on software best practices such as unit testing, code reviews, and documentation. He introduced continuous integration testing that saved both time and effort for developers in our team. All this added with his passion for building user-friendly applications will make him an asset to any team."
+  },{
+    "name": "Tyler Williams", 
+    "phone": "N/A", 
+    "reference": "Through my many years of school, I have only had a handful of teachers that stood out. Dave was one of them that went above and beyond to make sure his students reached their full potential and would go out of his way to help when needed. I had him as a teacher for 3 or 4 classes in my college career and each time he made sure I had a good understanding of what we were going over and would stay after class to help even if he had things he had to do. Without a doubt, students need more teachers like Dave to make sure they are understanding the course materials and have someone to push them to excel instead of just barely getting by. Even after I graduated he has kept in contact with me just to see how I was doing and provide mentoring if I needed."
   }]
 } 
