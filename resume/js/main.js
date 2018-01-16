@@ -1,3 +1,6 @@
+// Use raw get to grab the json file from my github
+// https://rawgit.com/
+// ----------------------------------------------------------------------------- 
 $.ajax({
   type: "GET",
   url: "https://rawgit.com/ddavisgraphics/resume/master/ddavis_resume.json", // dev
@@ -21,6 +24,9 @@ $.ajax({
   }
 });
 
+// Setup Profile
+// Sets up the name, contact information, and other basic information in my resume.
+// ----------------------------------------------------------------------------- 
 function setupProfile(basics){
   console.log(basics);
 }
