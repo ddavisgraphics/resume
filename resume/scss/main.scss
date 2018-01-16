@@ -1,0 +1,33 @@
+// sass --watch resume/scss/main.scss:resume/css/main.css 
+@import 'normalize';
+@import 'variables'; 
+
+html {
+  box-sizing: border-box;
+  background:#eee; 
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body{
+  width: 60%;
+  margin: 20px auto;
+  font-family: "Open Sans", sans-serif; 
+  font-weight: 300;
+  line-height: 1.75;
+  color: $dark-gray;
+  background:#fff; 
+}
+
+h1,h2,h3,h4,h5,h6 { 
+  margin:0 0 20px; 
+}
+
+header { 
+  border-bottom:1px solid $primary; 
+}
+
+section { 
+  padding:20px; 
+}
