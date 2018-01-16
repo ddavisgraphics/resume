@@ -29,4 +29,8 @@ $.ajax({
 // ----------------------------------------------------------------------------- 
 function setupProfile(basics){
   console.log(basics);
+
+  $('.name').html(basics.name); 
+  $('.profile-pic').html('<img src="' + basics.picture + '" alt="profile picture of me" />');
+  $('.logo').html('<img src="' + basics.logo + '" alt="logo for my resume." />'); 
 }
