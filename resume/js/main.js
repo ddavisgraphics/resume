@@ -33,4 +33,7 @@ function setupProfile(basics){
   $('.name').html(basics.name); 
   $('.profile-pic').html('<img src="' + basics.picture + '" alt="profile picture of me" />');
   $('.logo').html('<img src="' + basics.logo + '" alt="logo for my resume." />'); 
+  $('.location').html('<span class="fa fa-map-marker" aria-hidden="true"></span> ' + basics.location.region); 
+  $('.phone').html('<span class="fa fa-mobile" aria-hidden="true"></span> ' + basics.phone); 
+  $('.email').html('<a href="mailto:' + basics.email + '">' + '<span class="fa fa-envelope-open-o" aria-hidden="true"></span> ' + basics.email + '</a>');
 }
