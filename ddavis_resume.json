@@ -2,12 +2,12 @@
   "basics": {
     "name": "David J. Davis",
     "label": "Programmer",
-    "picture": "https://raw.githubusercontent.com/ddavisgraphics/resume/master/profile_pic.jpg",
-    "logo": "https://raw.githubusercontent.com/ddavisgraphics/resume/master/resume_logo.svg", 
+    "picture": "https://rawgit.com/ddavisgraphics/resume/master/profile_pic.jpg",
+    "logo": "https://rawgit.com/ddavisgraphics/resume/master/resume_logo.svg", 
     "email": "dave@ddavisgraphics.com",
     "phone": "(304) 613-7108",
     "website": "http://www.ddavisgraphics.com",
-    "summary": "I am a full stack developer that can not only design the application, but also produce highly effective functional applications. Higher education has helped me to hone my graphic design skills, programming skills, and taught me how to be life time learner.  At West Virginia University Libraries, I got the opportunity to take Gallup Strengths Finder Quiz, which allows you to get an un-bias idea of what skills you can bring to the table as a form of self-reflection.  My skills where communication, consistency, learner, achiever, and adaptability.  I believe that each of these skills is extremely useful in development.  Being able to learn and adapt to new technologies is often critical in my day-to-day work.  Communicating effectively with clients allows me to get a better idea of what they are looking for and help them achieve the goals of the application.   Consistency is needed day in and day out to stay on top of bugs, security, and trends in the industry. I am a full stack developer, and I love what I do!",
+    "summary": "I am a full stack developer that can not only design the application, but also produce highly effective functional applications. Higher education has helped me to hone my graphic design skills, programming skills, and has given me an appreciation for education. My career choices have shown me how the education applies to my unique niche and shown me the ways to be the most useful and productive on any team of developers.  According to the Gallup Strengths Finder Quiz my skills include communication, consistency, learner, achiever, and adaptability.  I believe that each of these skills is extremely useful in programming.  Being able to learn and adapt to new technologies is often critical in my day-to-day work.  Communicating effectively with clients allows me to comprehend the problem, and provide a viable solution.   Consistency is needed day in and day out to stay on top of bugs, security, and trends in the industry.  Achievement is forcing yourself to complete the task at hand (hard, easy, tedious, etc) before moving onto the next challenge.  I am a full stack developer, and I love what I do!",
     "location": {
       "city": "Fairmont",
       "countryCode": "US",
