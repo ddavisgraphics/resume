@@ -2,24 +2,21 @@
 @import 'normalize';
 @import 'mixins';
 @import 'variables'; 
+@import 'profile'; 
 
 html {
   box-sizing: border-box;
-  background:#eee; 
 }
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
 body{
-  width: 80%;
-  box-shadow: 0px 0px 10px darken(#eee, 10%);
+  width: 90%;
   margin: 20px auto;
   font-family: "Open Sans", sans-serif; 
   font-weight: 300;
   line-height: 1.75;
-  color: $dark-gray;
-  background:#fff; 
 }
 
 h1,h2,h3,h4,h5,h6 { 
@@ -28,19 +25,17 @@ h1,h2,h3,h4,h5,h6 {
 
 header { 
   border-bottom:1px solid $primary; 
-  
 }
 
 .side-bar{ 
   width:100%; 
-  background:$primary;
+  background:#eee;
   padding:20px;
+  margin:20px 0;
 }
 
 .main-content{ 
-
-}
-
-section { 
-  padding:20px; 
+  width:100%; 
+  background:#eee;
+  padding:20px;
 }

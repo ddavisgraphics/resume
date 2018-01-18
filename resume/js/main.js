@@ -31,9 +31,22 @@ function setupProfile(basics){
   console.log(basics);
 
   $('.name').html(basics.name); 
+  $('.title').html(basics.label); 
   $('.profile-pic').html('<img src="' + basics.picture + '" alt="profile picture of me" />');
   $('.logo').html('<img src="' + basics.logo + '" alt="logo for my resume." />'); 
   $('.location').html('<span class="fa fa-map-marker" aria-hidden="true"></span> ' + basics.location.region); 
   $('.phone').html('<span class="fa fa-mobile" aria-hidden="true"></span> ' + basics.phone); 
-  $('.email').html('<a href="mailto:' + basics.email + '">' + '<span class="fa fa-envelope-open-o" aria-hidden="true"></span> ' + basics.email + '</a>');
+  $('.email').html('<span class="fa fa-envelope" aria-hidden="true"></span> ' + basics.email);
+  
+  var socialMedia = basics.profiles; 
+  var socialMediaHTML = "<ul>"; 
+  for (let index = 0; index < socialMedia.length; index++) {
+    const element = socialMedia[index];
+    socialMediaHTML += '<li> <a href="'+ element.url +'">' + element.network + '</a> </li>'; 
+  }
+  socialMediaHTML += "</ul>"; 
+
+  $('.social').html(socialMediaHTML);
+
+  $('.summary p').html(basics.summary);
 }
