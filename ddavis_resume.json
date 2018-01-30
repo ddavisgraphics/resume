@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "David J. Davis",
-    "label": "Programmer",
+    "label": "Full Stack Developer",
     "picture": "https://cdn.rawgit.com/ddavisgraphics/resume/master/profile_pic.jpg",
     "logo": "https://cdn.rawgit.com/ddavisgraphics/resume/master/resume_logo.svg", 
     "email": "dave@ddavisgraphics.com",
@@ -57,6 +57,14 @@
         "Other common tasks include debugging applications, cleaning and manipulating data through writing command line scripts, and finding ways to automate scripts that have been manually updated via the command line."
       ]
     },{
+      "company": "Lindsey Wilson College",
+      "position": "Adjunct Professor (Online)",
+      "website": "http://www.lindsey.edu/",
+      "startDate": "2016-08-01",
+      "endDate": "2017-1-01",
+      "summary": "Facilitate a dynamic and engaging learning environment for students interested in learning web development and getting a UX / UI certification. Created and developed a course for design students who are interested in learning how to create rich web applications via JavaScript.  Using frameworks and learn by doing methodology students will start head first into creating and using programming skills to create their first web application.  ",
+      "highlights": []
+    },{
       "company": "MPL Corporation",
       "position": "Frontend Developer",
       "website": "http://www.mpl.com/",
@@ -108,14 +116,6 @@
       "endDate": "2015-12-01",
       "summary": "Facilitated a dynamic and engaging learning environment for students interested in graphic design.  Provide students with a solid background graphic design theory while providing industry transferable skills. Graphic Communications and Processes, Computer Applications to  Graphics, Introduction to 3D Modeling, Electronic Art, Motion Design (Adobe After Effects), Introduction To Web Application Development (JavaScript).",
       "highlights": []
-    },{
-      "company": "Lindsey Wilson College",
-      "position": "Adjunct Professor (Online)",
-      "website": "http://www.lindsey.edu/",
-      "startDate": "2016-08-01",
-      "endDate": "2017-1-01",
-      "summary": "Facilitate a dynamic and engaging learning environment for students interested in learning web development and getting a UX / UI certification. Created and developed a course for design students who are interested in learning how to create rich web applications via JavaScript.  Using frameworks and learn by doing methodology students will start head first into creating and using programming skills to create their first web application.  ",
-      "highlights": []
     }
 ],
   "education": [{
@@ -139,8 +139,8 @@
     "area": "Interactive Design and Game Development",
     "summary": "Interactive Design and Game Development.Focusing on user interactions, frontend tooling, and web application development.",
     "degree": "Masters of Fine Arts",
-    "startDate": "2005",
-    "endDate": "2010",
+    "startDate": "2012",
+    "endDate": "2016",
     "gpa": "~3.0"
   }],
   "awards": [],
@@ -171,12 +171,9 @@
   }],
   "skills": [
     {
-      "name": "Development",
+      "name": "Backend Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "SCSS", 
         "Javascript", 
         "PHP", 
         "Ruby",
@@ -184,13 +181,27 @@
         "Node", 
         "Git", 
         "Github", 
-        "Accessibility", 
+        "Apache", 
+        "Nginx",
+        "Solr", 
+        "Code Quality", 
+        "Automated Testing", 
+        "Unit Testing"
+      ]
+    }, {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "SCSS", 
+        "Javascript", 
         "Pre-processors", 
         "XML", 
-        "JSON", 
-        "Apache", 
-        "MySQL", 
-        "Solr"
+        "JSON",
+        "Ajax", 
+        "UX/UI Design", 
+        "Interface Development"
       ]
     },{
       "name": "Graphic Design",
@@ -212,7 +223,9 @@
         "Docker", 
         "Vagrant",
         "Dependency Management", 
-        "Ansible"
+        "Ansible", 
+        "Database Administration", 
+        "Continous Integration" 
       ]
     },{
       "name": "Frameworks",
@@ -246,11 +259,11 @@
   },{
     "name": "Vijay Raol",
     "phone": "(304) 367-4104",
-    "reference": "N/A"
+    "reference": "Reference by phone."
   },{
     "name": "David Felton",
     "phone": "(304) 838-3283",
-    "reference": "N/A"
+    "reference": "Reference by phone."
   },{
     "name": "Ajay Kavuri",
     "phone": "N/A",
