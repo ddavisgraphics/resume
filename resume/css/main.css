@@ -397,6 +397,9 @@ template {
     width: 100%;
     border-radius: 50%;
     overflow: hidden; }
+  @media (min-width: 48em) {
+    .profile-pic {
+      max-width: 200px; } }
 
 .profile-info {
   font-size: .8em; }
@@ -419,6 +422,9 @@ template {
   margin: 0 auto; }
   .logo img {
     width: 100%; }
+  @media (min-width: 48em) {
+    .logo {
+      max-width: 500px; } }
 
 .hidden {
   position: absolute !important;
@@ -449,10 +455,26 @@ header {
   background: #eee;
   padding: 20px;
   margin: 20px 0; }
+  @media (min-width: 48em) {
+    .side-bar {
+      width: calc(40% - 20px);
+      margin-right: 20px;
+      display: inline-block;
+      float: left; } }
 
 .main-content {
   width: 100%;
   background: #eee;
   padding: 20px; }
+  @media (min-width: 48em) {
+    .main-content {
+      width: 60%;
+      display: inline-block;
+      float: left;
+      margin-top: 20px; } }
+
+footer {
+  width: 100%;
+  float: left; }
 
 /*# sourceMappingURL=main.css.map */
